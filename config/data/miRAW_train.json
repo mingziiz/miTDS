@@ -1,0 +1,4 @@
+{
+  "with_esa": "True",	
+  "train_path": "data/miRAW_Train_Validation.txt"
+}
