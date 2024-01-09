@@ -1,0 +1,8 @@
+{
+ "ds_out_channels": 128,
+ "block_kernel_size": 3,
+ "lstm_hidden_size": 64,
+ "lstm_num_layers": 2,
+ "kmer": 6	,
+ "cuda": true
+}
